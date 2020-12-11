@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnseininsikiVer3_2 tsuboi</string>
+    <string name="English"> MainActivity.resultsString</string>
+    <string name="French">MainActivity.resultsString</string>
+    <string name="Italy">MainActivity.resultsString</string>
+    <string name="Germany">MainActivity.resultsString</string>
+    <string name="Spanish">MainActivity.resultsString</string>
+</resources>
